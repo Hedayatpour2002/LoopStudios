@@ -1,0 +1,6 @@
+@media (min-width: 640px) {
+  #header-top {
+    background-image: url(../images/desktop/image-hero.jpg);
+  }
+
+}
